@@ -27,3 +27,14 @@ It is a real-time messaging application that delivers seamless communication wit
 
 ## Live Link
    <a href="https://wa-chat-app123.netlify.app/">AK Chat App</a>
+
+## Demo
+[Watch Video on Google Drive](https://drive.google.com/file/d/1zCDozdR3RoOKu5p-tAqLM8DPPqlEWtfR/view?usp=sharing)
+
+<video src="https://drive.google.com/file/d/1zCDozdR3RoOKu5p-tAqLM8DPPqlEWtfR/view?usp=sharing" controls width="640" height="480">
+
+</video>
+
+
+
+
